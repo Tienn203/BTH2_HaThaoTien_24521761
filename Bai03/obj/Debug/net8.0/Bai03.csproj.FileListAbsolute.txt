@@ -1,0 +1,14 @@
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\bin\Debug\net8.0\Bai03.exe
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\bin\Debug\net8.0\Bai03.deps.json
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\bin\Debug\net8.0\Bai03.runtimeconfig.json
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\bin\Debug\net8.0\Bai03.dll
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\bin\Debug\net8.0\Bai03.pdb
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\Bai03.AssemblyInfoInputs.cache
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\Bai03.AssemblyInfo.cs
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\Bai03.csproj.CoreCompileInputs.cache
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\Bai03.dll
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\refint\Bai03.dll
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\Bai03.pdb
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\Bai03.genruntimeconfig.cache
+D:\LTTQ\BTH2_HaThaoTien_24521761\Bai03\obj\Debug\net8.0\ref\Bai03.dll

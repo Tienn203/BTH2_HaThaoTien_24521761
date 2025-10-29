@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55624D2D-0AB1-42D1-B3AF-4813A1CD3C76}|Bai04\\Bai04.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai04\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55624D2D-0AB1-42D1-B3AF-4813A1CD3C76}|Bai04\\Bai04.csproj|solutionrelative:bai04\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai05\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|solutionrelative:bai05\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai05\\listbatdongsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|solutionrelative:bai05\\listbatdongsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai05\\cbatdongsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|solutionrelative:bai05\\cbatdongsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai05\\ckhudat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|solutionrelative:bai05\\ckhudat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55624D2D-0AB1-42D1-B3AF-4813A1CD3C76}|Bai04\\Bai04.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai04\\cphanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55624D2D-0AB1-42D1-B3AF-4813A1CD3C76}|Bai04\\Bai04.csproj|solutionrelative:bai04\\cphanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55624D2D-0AB1-42D1-B3AF-4813A1CD3C76}|Bai04\\Bai04.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai04\\listphanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55624D2D-0AB1-42D1-B3AF-4813A1CD3C76}|Bai04\\Bai04.csproj|solutionrelative:bai04\\listphanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai05\\cchungcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|solutionrelative:bai05\\cchungcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|d:\\lttq\\bth2_hathaotien_24521761\\bai05\\cnhapho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA60B15A-9451-4287-9D7B-7CB0C5CCD209}|Bai05\\Bai05.csproj|solutionrelative:bai05\\cnhapho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai04.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai04\\Bai04.cs",
+              "RelativeDocumentMoniker": "Bai04\\Bai04.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai04\\Bai04.cs",
+              "RelativeToolTip": "Bai04\\Bai04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:20:27.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai05.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\Bai05.cs",
+              "RelativeDocumentMoniker": "Bai05\\Bai05.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\Bai05.cs",
+              "RelativeToolTip": "Bai05\\Bai05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:20:20.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListPhanSo.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai04\\ListPhanSo.cs",
+              "RelativeDocumentMoniker": "Bai04\\ListPhanSo.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai04\\ListPhanSo.cs",
+              "RelativeToolTip": "Bai04\\ListPhanSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:35:25.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CPhanSo.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai04\\CPhanSo.cs",
+              "RelativeDocumentMoniker": "Bai04\\CPhanSo.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai04\\CPhanSo.cs",
+              "RelativeToolTip": "Bai04\\CPhanSo.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:35:11.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListBatDongSan.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\ListBatDongSan.cs",
+              "RelativeDocumentMoniker": "Bai05\\ListBatDongSan.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\ListBatDongSan.cs",
+              "RelativeToolTip": "Bai05\\ListBatDongSan.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:48:06.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CChungCu.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\CChungCu.cs",
+              "RelativeDocumentMoniker": "Bai05\\CChungCu.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\CChungCu.cs",
+              "RelativeToolTip": "Bai05\\CChungCu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:26:15.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CNhaPho.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\CNhaPho.cs",
+              "RelativeDocumentMoniker": "Bai05\\CNhaPho.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\CNhaPho.cs",
+              "RelativeToolTip": "Bai05\\CNhaPho.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:19:58.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CKhuDat.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\CKhuDat.cs",
+              "RelativeDocumentMoniker": "Bai05\\CKhuDat.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\CKhuDat.cs",
+              "RelativeToolTip": "Bai05\\CKhuDat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T16:09:42.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CBatDongSan.cs",
+              "DocumentMoniker": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\CBatDongSan.cs",
+              "RelativeDocumentMoniker": "Bai05\\CBatDongSan.cs",
+              "ToolTip": "D:\\LTTQ\\BTH2_HaThaoTien_24521761\\Bai05\\CBatDongSan.cs",
+              "RelativeToolTip": "Bai05\\CBatDongSan.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T12:32:17.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
